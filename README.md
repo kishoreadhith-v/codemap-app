@@ -1,7 +1,5 @@
-# LeetCode Clone Youtube Tutorial
+# CodeMap
 
 ### Built With React, NextJS, TypeScript, TailwindCSS, Firebase
 
-# [Demo](https://youtu.be/igqiduZR-Gg)
-
-![Screenshot of App](https://i.ibb.co/b3XDkdN/Full-Stack-1.png)
+A web app to practice coding for coding interviews
